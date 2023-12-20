@@ -3,15 +3,19 @@
     flex-direction: column;
     align-items: center;
     overflow-y: scroll;
-    max-height: 500px;
+    max-height: 33%;
 }
 .fotos-coluna1{
     display: flex;
     flex-direction: row;
+    max-height: 20%;
 }
 .imagemlado1{
-    margin-right: 50px;
+    margin-right: 5%;
+    
 }
 .imagemlado2{
-    margin-right: 50px;
+    margin-right: 5%;
+
+
 }
