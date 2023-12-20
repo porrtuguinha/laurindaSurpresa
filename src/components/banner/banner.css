@@ -1,0 +1,11 @@
+.texto{
+    color: rgb(105, 4, 4);
+    font-family:'Bebas Neue', cursive;
+}
+.inicio{
+    background-image: url("../../../public/images/rosas2.jpg");
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
