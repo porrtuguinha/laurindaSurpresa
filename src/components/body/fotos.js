@@ -6,31 +6,31 @@ return(
 <div className="fotos">
         <div className="fotos-coluna1">
             <div className="imagemlado1">
-                <img src="/images/laura1.jpeg" alt="imagem vô e vó" height="500px" width="450px"/>
+                <img src="images/laura1.jpg" alt="imagem vô e vó" height="500px" width="450px"/>
             </div>
             <div className="imagemlado2">
-                <img src="/images/FotoEstiloAntigos.jpeg" alt="imagem antiga" height="500px" width="450px"/>
+                <img src="images/FotoEstiloAntigos.jpg" alt="imagem antiga" height="500px" width="450px"/>
             </div>
             <div className="imagemlado3">
-                <img src="/images/Romantico.jpeg" alt="imagem beijo" height="500px" width="450px"/>
+                <img src="images/Romantico.jpg" alt="imagem beijo" height="500px" width="450px"/>
 
             </div>
 
         </div>
         <div className="fotos-coluna1">
             <div className="imagemlado1">
-                <img src="/images/Homens.jpeg" alt="Homens da familia" height="500px" width="450px"/>
+                <img src="images/Homens.jpg" alt="Homens da familia" height="500px" width="450px"/>
             </div>
             <div className="imagemlado2">
-                <img src="/images/Familia2.jpeg" alt="foto da familia com o autor junto" height="500px" width="450px"/>
+                <img src="images/Familia2.jpg" alt="foto da familia com o autor junto" height="500px" width="450px"/>
             </div>
             <div>
-                <img src="/images/family.jpeg" height="500" width="450"/>
+                <img src="images/family.jpeg" height="500" width="450"/>
             </div>
         </div>
         <div className="fotos-coluna1">
             <div className="imagemlado1">
-                <img src="/images/festa.jpg" height="500px" width="450px"></img>
+                <img src="images/festa.jpg" height="500px" width="450px"></img>
             </div>
             <div className="imagemlado2">
                 <img src="images/CasalLindo.jpg" height="500px" width="450px"></img>
