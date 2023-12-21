@@ -22,9 +22,9 @@ return(
                 <img src="images/Homens.jpg" alt="Homens da familia" height="100%" width="100%"/>
             </div>
             <div className="imagemlado2">
-                <img src="images/Familia2.jpg" alt="foto da familia com o autor junto" height="100%" width="100%"/>
+                <img src="images/Familia2.jpeg" alt="foto da familia com o autor junto" height="100%" width="100%"/>
             </div>
-            <div>
+            <div  className="imagemlado3">
                 <img src="images/family.jpeg" height="100%" width="100%"/>
             </div>
         </div>
@@ -35,7 +35,7 @@ return(
             <div className="imagemlado2">
                 <img src="images/CasalLindo.jpg" height="100%" width="100%"></img>
             </div>
-            <div>
+            <div  className="imagemlado3"> 
                 <img src="images/neuGaranhão.jpg" height="100%" width="100%"></img>
             </div>
         </div>
@@ -46,7 +46,7 @@ return(
             <div className="imagemlado2">
                 <img src="images/netos.jpg" height="100%" width="100%"></img>
             </div>
-            <div>
+            <div  className="imagemlado3" >
                 <img src="images/inicio.png" height="100%" width="100%"></img>
             </div>
         </div>
@@ -55,15 +55,15 @@ return(
                 <img src="images/elegancia.jpg" height="100%" width="100%"></img>
             </div>
             <div className="imagemlado2">
-                <img src="images/lindinhos.jpg" height="100%" width="100%"></img>
+                <img src="images/Lindinhos.jpeg" height="100%" width="100%"></img>
             </div>
-            <div>
+            <div  className="imagemlado3">
                 <img src="images/onsbu.jpg" height="100%" width="100%"></img>
             </div>
         </div>
         <div className="fotos-coluna1">
             <div className="imagemlado1">
-                <img src="images/vóFeliz.jpg" height="100%" width="100%"></img>
+                <img src="images/VóFeliz.jpg" height="100%" width="100%"></img>
             </div>
             <div className="imagemlado3">
                 
