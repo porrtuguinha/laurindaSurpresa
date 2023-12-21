@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/laurindaSurpresa/static/css/main.dd9dc83c.css",
-    "main.js": "/laurindaSurpresa/static/js/main.c541b5cf.js",
+    "main.js": "/laurindaSurpresa/static/js/main.84c074a9.js",
     "static/js/787.ab378faf.chunk.js": "/laurindaSurpresa/static/js/787.ab378faf.chunk.js",
     "static/media/rosas.jpg": "/laurindaSurpresa/static/media/rosas.d37c96c88da41d38b4ad.jpg",
     "static/media/rosas2.jpg": "/laurindaSurpresa/static/media/rosas2.98424c8bf13d38ffeb1a.jpg",
     "index.html": "/laurindaSurpresa/index.html",
     "main.dd9dc83c.css.map": "/laurindaSurpresa/static/css/main.dd9dc83c.css.map",
-    "main.c541b5cf.js.map": "/laurindaSurpresa/static/js/main.c541b5cf.js.map",
+    "main.84c074a9.js.map": "/laurindaSurpresa/static/js/main.84c074a9.js.map",
     "787.ab378faf.chunk.js.map": "/laurindaSurpresa/static/js/787.ab378faf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd9dc83c.css",
-    "static/js/main.c541b5cf.js"
+    "static/js/main.84c074a9.js"
   ]
 }
