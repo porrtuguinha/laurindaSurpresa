@@ -7,7 +7,7 @@ return(
         <div className="imagemFamilia">
             <img className="foto" src="./images/familiaBig.jpg"  alt="imagem familia" height="100%" width="100%"/>
         </div>
-        <audio autoplay="autoplay" controls="controls">
+        <audio className='audio' autoplay="autoplay" controls="controls">
 <source src="images/manoelOficial.mp3" type="audio/mp3" />
 seu navegador não suporta HTML5
 </audio>
