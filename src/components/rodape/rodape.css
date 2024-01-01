@@ -10,3 +10,17 @@
     color: rgb(105, 4, 4);
     font-family:'Bebas Neue', cursive;
 }
+.imagemFamilia{
+    max-height: 300px;
+    max-width: 300px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.foto{
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
