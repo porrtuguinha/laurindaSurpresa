@@ -65,7 +65,8 @@ return(
             <div className="imagemlado1">
                 <img src="images/VóFeliz.jpg" height="100%" width="100%"></img>
             </div>
-            <div className="imagemlado3">
+            <div className="imagemlado2">
+                <img src="images/novinhos.jpg" height="100%" width="100%"/>
                 
             </div>
         </div>
