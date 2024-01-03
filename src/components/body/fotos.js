@@ -69,6 +69,32 @@ return(
                 <img src="images/novinhos.jpg" height="100%" width="100%"/>
                 
             </div>
+            <div  className="imagemlado3">
+                <img src="images/manoelbolo.jpg" height="100%" width="100%"></img>
+            </div>
+        </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
+                <img src="images/maozihas.JPG" height="100%" width="100%"></img>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/rezando.JPG" height="100%" width="100%"></img>
+            </div>
+            <div  className="imagemlado3">
+                <img src="images/rezando2.JPG" height="100%" width="100%"></img>
+            </div>
+
+        </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
+                <img src="images/atencao.JPG" height="100%" width="100%"></img>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/bodaslindos.JPG" height="100%" width="100%"></img>
+            </div>
+            <div  className="imagemlado3">
+                <img src="images/casalefilha.JPG" height="100%" width="100%"></img>
+            </div>
         </div>
 </div>
 
