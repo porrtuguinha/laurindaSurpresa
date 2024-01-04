@@ -96,6 +96,17 @@ return(
                 <img src="images/casalefilha.JPG" height="100%" width="100%"></img>
             </div>
         </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
+                <img src="images/filhaepais.jpg" height="100%" width="100%"></img>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/irmaos.jpg" height="100%" width="100%"></img>
+            </div>
+            <div  className="imagemlado3">
+                <img src="images/paiefilha.jpg" height="100%" width="100%"></img>
+            </div>
+        </div>
 </div>
 
 )
