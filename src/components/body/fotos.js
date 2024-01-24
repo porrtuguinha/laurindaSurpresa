@@ -118,6 +118,28 @@ return(
                 <img src="images/natal3.jpeg" height="100%" width="100%"></img>
             </div>
         </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
+                <img src="images/casal.jpg" height="100%" width="100%"></img>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/casal2.jpg" height="100%" width="100%"></img>
+            </div>
+            <div  className="imagemlado3">
+                <img src="images/irmaos4.jpg" height="100%" width="100%"></img>
+            </div>
+        </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
+                <img src="images/LucaseMarina.jpg" height="100%" width="100%"></img>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/Guilherme.jpeg" height="100%" width="100%"></img>
+            </div>
+            <div  className="imagemlado3">
+                <img src="images/O criador.jpeg" height="100%" width="100%"></img>
+            </div>
+        </div>
 </div>
 
 )
