@@ -140,6 +140,15 @@ return(
                 <img src="images/O criador.jpeg" height="100%" width="100%"></img>
             </div>
         </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
+                <img src="images/navio.jpeg" height="100%" width="100%"></img>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/navio2.jpeg" height="100%" width="100%"></img>
+            </div>
+           
+        </div>
 </div>
 
 )
