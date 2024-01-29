@@ -142,6 +142,17 @@ return(
         </div>
         <div className="fotos-coluna1">
             <div className="imagemlado1">
+                <img src="images/festaVo.jpeg" height="100%" width="100%"></img>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/Carlos.jpeg" height="100%" width="100%"></img>
+            </div>
+            <div  className="imagemlado3">
+                <img src="images/united.jpeg" height="100%" width="100%"></img>
+            </div>
+        </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
                 <img src="images/navio.jpeg" height="100%" width="100%"></img>
                 <p className="descricao">Foto do Cabo san Vicente, navio onde manoel veio de portugal</p>
             </div>
