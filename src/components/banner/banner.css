@@ -1,8 +1,8 @@
-.texto{
+.textoLaurinda{
     color: rgb(105, 4, 4);
     font-family:'Bebas Neue', cursive;
 }
-.inicio{
+.inicioLaurinda{
     background-image: url("../../../public/images/rosas2.jpg");
     background-color: pink;
     display: flex;

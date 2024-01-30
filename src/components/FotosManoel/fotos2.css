@@ -1,0 +1,40 @@
+.fotos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 33%;
+}
+.fotos-coluna1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-height: 20%;
+}
+.imagemlado1{
+    margin-right: 5%;
+ 
+    max-height: 33%;
+    max-width: 33%;
+    width: 33%;
+    height: 33%;
+}
+.imagemlado2{
+    margin-right: 5%;
+    max-height: 33%;
+    max-width: 33%;
+    width: 33%;
+    height: 33%;
+
+}
+.imagemlado3{
+    max-height: 33%;
+    max-width: 33%;
+    width: 33%;
+    height: 33%;
+
+}
+.descricao{
+    color: white;
+    width: 100%;
+    background-color: black;
+}

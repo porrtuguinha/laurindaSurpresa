@@ -1,0 +1,11 @@
+.textoManoel{
+    color: rgb(184,134,11);
+    font-family:'Bebas Neue', cursive;
+}
+.inicioManoel{
+    background-color: rgb(255,0,0);;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-height: 33%;
+}
