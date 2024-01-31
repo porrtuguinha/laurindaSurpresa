@@ -1,8 +1,5 @@
 
-@font-face {
-    font-family: manoel;
-    src: url(https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Oswald&family=Poppins&family=Vina+Sans&display=swap)
-  }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 .fim{
     background-image: url("../../../public/images/rosas2.jpg");
     background-color: pink;
@@ -43,7 +40,7 @@
     height: 100%;
     border-radius: 25%;
     align-self: center;
-    font-family: manoel;
+    font-family: 'Poppins' sans-serif;
 }
 .textoButton{
      text-decoration: none;
