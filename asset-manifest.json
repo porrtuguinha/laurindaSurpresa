@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/laurindaSurpresa/static/css/main.620835f4.css",
-    "main.js": "/laurindaSurpresa/static/js/main.abd4bfa5.js",
+    "main.css": "/laurindaSurpresa/static/css/main.6ff58b00.css",
+    "main.js": "/laurindaSurpresa/static/js/main.34a2b693.js",
     "static/js/787.7058240f.chunk.js": "/laurindaSurpresa/static/js/787.7058240f.chunk.js",
     "static/media/rosas.jpg": "/laurindaSurpresa/static/media/rosas.d37c96c88da41d38b4ad.jpg",
     "static/media/rosas2.jpg": "/laurindaSurpresa/static/media/rosas2.98424c8bf13d38ffeb1a.jpg",
     "index.html": "/laurindaSurpresa/index.html",
-    "main.620835f4.css.map": "/laurindaSurpresa/static/css/main.620835f4.css.map",
-    "main.abd4bfa5.js.map": "/laurindaSurpresa/static/js/main.abd4bfa5.js.map",
+    "main.6ff58b00.css.map": "/laurindaSurpresa/static/css/main.6ff58b00.css.map",
+    "main.34a2b693.js.map": "/laurindaSurpresa/static/js/main.34a2b693.js.map",
     "787.7058240f.chunk.js.map": "/laurindaSurpresa/static/js/787.7058240f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.620835f4.css",
-    "static/js/main.abd4bfa5.js"
+    "static/css/main.6ff58b00.css",
+    "static/js/main.34a2b693.js"
   ]
 }
