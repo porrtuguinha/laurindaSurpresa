@@ -1,3 +1,8 @@
+
+@font-face {
+    font-family: manoel;
+    src: url(https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Oswald&family=Poppins&family=Vina+Sans&display=swap)
+  }
 .fim{
     background-image: url("../../../public/images/rosas2.jpg");
     background-color: pink;
@@ -41,4 +46,7 @@
 }
 .textoButton{
     color: rgb(184,134,11);
+     text-decoration: none;
+     font-family: manoel;
+
 }
