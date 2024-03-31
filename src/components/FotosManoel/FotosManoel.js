@@ -61,6 +61,34 @@ return(
         </div>
         <div className="fotos-coluna1">
             <div className="imagemlado1">
+                <img src="images/rio.jpeg" alt="" height="100%" width="100%"/>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/alemrio.jpeg" alt="" height="100%" width="100%"/>
+            </div>
+            <div className="imagemlado3">
+                <img src="images/casa4.jpeg" alt="" height="100%" width="100%"/>
+
+            </div>
+            
+
+        </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
+                <img src="images/igeja4.jpeg" alt="" height="100%" width="100%"/>
+            </div>
+            <div className="imagemlado2">
+                <img src="images/ponte4.jpeg" alt="" height="100%" width="100%"/>
+            </div>
+            <div className="imagemlado3">
+                <img src="images/rua4.jpeg" alt="" height="100%" width="100%"/>
+
+            </div>
+            
+
+        </div>
+        <div className="fotos-coluna1">
+            <div className="imagemlado1">
                 <img src="images/poste.jpeg" alt="" height="100%" width="100%"/>
             </div>
             <div className="imagemlado2">
