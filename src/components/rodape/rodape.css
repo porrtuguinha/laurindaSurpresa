@@ -33,16 +33,24 @@
     color: blueviolet;
     background-color: pink;
 }
-.ButtonManoel{
+
+.ButtonManoel {
     background-color:rgb(4,106,56) ;
     color: rgb(255,255,0);
-    width: 50%;
-    height: 100%;
-    border-radius: 25%;
-    align-self: center;
+    width: 80%; /* Largura do botão para dispositivos móveis */
+    padding: 10px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
     font-family: 'Poppins' sans-serif;
+    align-self: center;
+    border-radius: 50px;
 }
 .textoButton{
      text-decoration: none;
 
+}
+@media screen and (min-width: 601px) {
+    .ButtonManoel {
+        width: 40%; /* Largura do botão para desktops */
+        font-size: 14px; /* Reduzir o tamanho da fonte para desktops */
+    }
 }

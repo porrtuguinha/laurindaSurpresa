@@ -3,98 +3,76 @@ function FotosManoel(){
 return(
 
 
-<div className="fotos">
-        <div className="fotos-coluna1">
-            <div className="imagemlado1">
-                <img src="images/Barreiras.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado2">
-                <img src="images/cabeco.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado3">
-                <img src="images/Capela.jpeg" alt="" height="100%" width="100%"/>
+<div className="fotosManoel">
 
-            </div>
+                <img src="images/Barreiras.jpeg" alt="" />
+            
+                <img src="images/cabeco.jpeg" alt="" />
+           
+         
+                <img src="images/Capela.jpeg" alt="" />
 
-        </div>
-        <div className="fotos-coluna1">
-            <div className="imagemlado1">
-                <img src="images/ponte.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado2">
-                <img src="images/restaurante.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado3">
-                <img src="images/rua.jpeg" alt="" height="100%" width="100%"/>
+           
 
-            </div>
+        
+      
+          
+                <img src="images/ponte.jpeg" alt="" />
+           
+           
+                <img src="images/restaurante.jpeg" alt="" />
+           
+          
+                <img src="images/rua.jpeg" alt="" />
+
+            
             
 
-        </div>
-        <div className="fotos-coluna1">
-            <div className="imagemlado1">
-                <img src="images/arte.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado2">
-                <img src="images/casa.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado3">
-                <img src="images/igreja.jpeg" alt="" height="100%" width="100%"/>
+       
+       
+           
+                <img src="images/arte.jpeg" alt="" />
+          
+                <img src="images/casa.jpeg" alt=""/>
+         
+                <img src="images/igreja.jpeg" alt="" />
 
-            </div>
             
 
-        </div>
-        <div className="fotos-coluna1">
-            <div className="imagemlado1">
-                <img src="images/moto.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado2">
-                <img src="images/paisagem.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado3">
-                <img src="images/paisagem2.jpeg" alt="" height="100%" width="100%"/>
+       
+                <img src="images/moto.jpeg" alt="" />
+           
+                <img src="images/paisagem.jpeg" alt="" />
+           
+                <img src="images/paisagem2.jpeg" alt="" />
 
-            </div>
+           
             
 
-        </div>
-        <div className="fotos-coluna1">
-            <div className="imagemlado1">
-                <img src="images/rio.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado2">
-                <img src="images/alemrio.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado3">
-                <img src="images/casa4.jpeg" alt="" height="100%" width="100%"/>
+      
+        
+                <img src="images/rio.jpeg" alt="" />
+           
+                <img src="images/alemrio.jpeg" alt="" />
+          
+                <img src="images/casa4.jpeg" alt="" />
 
-            </div>
+    
+       
+                <img src="images/igeja4.jpeg" alt="" />
+          
+                <img src="images/ponte4.jpeg" alt="" />
+           
+                <img src="images/rua4.jpeg" alt="" />
+
+          
             
 
-        </div>
-        <div className="fotos-coluna1">
-            <div className="imagemlado1">
-                <img src="images/igeja4.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado2">
-                <img src="images/ponte4.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado3">
-                <img src="images/rua4.jpeg" alt="" height="100%" width="100%"/>
-
-            </div>
+       
+                <img src="images/poste.jpeg" alt="" />
             
-
-        </div>
-        <div className="fotos-coluna1">
-            <div className="imagemlado1">
-                <img src="images/poste.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-            <div className="imagemlado2">
-                <img src="images/ruaigreja.jpeg" alt="" height="100%" width="100%"/>
-            </div>
-        </div>
+                <img src="images/ruaigreja.jpeg" alt=""/>
+        
 </div>
         )
 }
