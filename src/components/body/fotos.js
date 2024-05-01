@@ -126,7 +126,6 @@ return(
         
                 <img src="images/anigofesta.jpeg" alt="" ></img>
         
-            
                 <img src="images/natalS.jpeg" alt=""></img>
     
                 <img src="images/batima.jpeg" alt="" ></img>
@@ -140,6 +139,26 @@ return(
             
     
                 <img src="images/voevo.jpeg" alt="" ></img>
+
+
+
+                <img src="images/aniversario.jpeg" alt="" ></img>
+    
+            
+                 <img src="images/avoseamiga.jpeg" alt="" ></img>
+
+
+                <img src="images/familia8.jpeg" alt="" ></img>
+
+
+
+                <img src="images/voevo6.jpeg" alt="" ></img>
+    
+            
+                <img src="images/restaurante4.jpeg" alt="" ></img>
+
+
+                <img src="images/bisoebisa.jpeg" alt="" ></img>
 
         
         
