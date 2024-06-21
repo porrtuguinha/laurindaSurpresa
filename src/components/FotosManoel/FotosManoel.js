@@ -65,6 +65,16 @@ return(
            
                 <img src="images/rua4.jpeg" alt="" />
 
+                
+                
+                <img src="images/lago.jpeg" alt="" />
+          
+                <img src="images/lago2.jpeg" alt="" />
+     
+                <img src="images/rua10.jpeg" alt="" />
+
+
+
           
             
 
